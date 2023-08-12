@@ -1,4 +1,8 @@
-
 body {
-  background-color: blue;
+  background-color: smokewhite;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: georgia, tehoma, courier; 
 }
