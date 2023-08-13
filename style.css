@@ -1,21 +1,28 @@
 
 body {
+  
   background-color: smokewhite;
 }
 
 li {
+  
   font-size: 18px;
   font-family: georgia, tehoma, courier; 
 }
 
-
+ul {
+  
+  text-align: left;
+}
 
 h4 {
+  
   font-size: 20px;
   font-family: georgia, tehoma, courier; 
 }
 
 .h1 {
+  
   position: static; 
   background-color: gray;
   font-size: 112px;
@@ -28,6 +35,7 @@ h4 {
 }
 
 .h3 {
+  
   background-color: #F0F8FF;
   text-align: center;
   font-size: 40px;
@@ -44,12 +52,15 @@ h4 {
   z-index: 1010101010
 }
 .languages {
+  
+  
+  font-size: 50px;
   margin: auto;
   position: relative;
   text-align: center;
   width: 50%;
   float: center;
   height: 100%;
-  background-color: #green;
+  background-color: #C8C8C8;
   z-index: 1010101010
 }
